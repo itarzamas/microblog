@@ -20,5 +20,5 @@
   "name": "microblog",
   "scripts": {
   },
-  "stack": "heroku-18"
+  "stack": "heroku-20"
 }
